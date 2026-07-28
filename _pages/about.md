@@ -1,12 +1,19 @@
 ---
 permalink: /
-title: "Links for previous project samples"
+title: "My Previous Projects"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Master of Statistics Capstone Project code: [Capstone Project](https://github.com/linus-lls/Capstone)  
 
-Master of Statistics NLP Project code: [NLP Project](https://github.com/linus-lls/Image2CantonSong) 
+## Once in How Many Years? Extreme Value Analysis of Rainfall in Hong Kong [[code]](https://github.com/linus-lls/Capstone)
+
+Analysis pipeline for modelling extreme rainfall in Hong Kong using GEV, GPD, and max-stable models. See code repo for full list of authorship.
+![Extreme rainfall analysis evaluation](/images/capstone/evaluation_powexp_knots18_none_pen0e+00_return50.png)
+
+## From Image to Cantonese Song: A Multimodal Pipeline for Lyric and Music Generation [[code]](https://github.com/linus-lls/Image2CantonSong)
+
+Image2CantonSong is an end-to-end multimodal generation project that converts an input image into Cantonese lyrics and then generates a song through a lyrics-to-music pipeline. The system is designed as a research prototype and demo platform for exploring image understanding, Cantonese lyric generation, retrieval-augmented generation, music prompt engineering, and automatic evaluation. See code repo for full list of authorship.
+![Image-to-song pipeline](/images/nlp/pipeline.png)
