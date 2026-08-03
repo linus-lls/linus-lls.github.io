@@ -8,5 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  # No top navigation links configured.
-  # Add entries here if you want header menu items in the future.
+  - title: "Assignments"
+    url: /assignments/
+
+  # Add other top navigation links below
