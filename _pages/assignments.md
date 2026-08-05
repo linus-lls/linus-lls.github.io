@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 
-Computational Statistics and Bayesian Learning [[code]](https://github.com/linus-lls/Computational_Statistics_and_Bayesian_Learning/)
+Computational Statistics and Bayesian Learning [[code]](https://github.com/linus-lls/Computational_Statistics_and_Bayesian_Learning/)  
 
-
+Data Mining Techniques [[code]](https://github.com/linus-lls/Data_Mining_Techniques/)
 
